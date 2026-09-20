@@ -1,0 +1,51 @@
+export const PROFILE = {
+  name: 'Amrit Tiwari',
+  monogram: 'AT',
+  title: 'Full Stack Developer | Java Developer | Problem Solver',
+  heroTagline: 'Turning ideas into meaningful digital experiences.',
+  headlinePrimary: 'BUILDING DIGITAL',
+  headlineSecondary: 'EXPERIENCES',
+  headlineAccent: 'THAT MATTER.',
+  description:
+    'B.Tech Computer Science & Engineering student passionate about full-stack development, problem-solving, and building practical software solutions.',
+  bioExtended:
+    "I'm Amrit Tiwari, a Computer Science & Engineering undergraduate at Academy of Technology, affiliated with MAKAUT. I enjoy building practical software solutions, exploring modern web architectures, and solving algorithmic problems. With an 8.425/10.0 CGPA through 4 semesters and hands-on hackathon experience, I continuously transform real-world requirements into clean, scalable applications.",
+  education: {
+    institution: 'Academy of Technology',
+    affiliation: 'MAKAUT',
+    degree: 'B.Tech in Computer Science & Engineering',
+    semester: '5th Semester',
+    expectedGraduation: '2028',
+    cgpa: '8.425 / 10.0',
+    cgpaNote: 'Up to 4th Semester',
+    higherSecondary: '72%',
+    secondary: '80%',
+    location: 'Hooghly, West Bengal, India',
+  },
+  internshipGoal: {
+    target: '3-Month Software Developer Internship',
+    areas: [
+      'Application development, feature implementation & responsive design',
+      'Backend & database architecture using Java, Python, and SQL',
+      'Debugging, functional testing, code documentation & teamwork',
+      'Full-stack JavaScript, React.js, Node.js, and Git-based collaborative workflows',
+    ],
+  },
+  contact: {
+    email: 'amritis2415@gmail.com',
+    phone: '+91 7890591664',
+    location: 'Hooghly, West Bengal, India',
+    github: 'https://github.com/amrit740',
+    linkedin: 'https://www.linkedin.com/in/amrit-tiwari-570441377',
+  },
+  status: 'Open to Internship Opportunities',
+  terminalCommands: {
+    whoami: 'Amrit Tiwari — Full Stack & Java Developer',
+    role: 'B.Tech Computer Science & Engineering Undergrad (5th Sem)',
+    education: 'Academy of Technology (MAKAUT) • CGPA 8.425/10.0',
+    focus: 'Full-Stack Development • Java • SQL • System Architecture',
+    location: 'Hooghly, West Bengal, India',
+    status: 'Available for Software Developer Internships',
+    contact: 'amritis2415@gmail.com | github.com/amrit740',
+  },
+};
